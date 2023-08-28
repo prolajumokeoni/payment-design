@@ -44,7 +44,7 @@ export default function Questions() {
         />
       </div>
 			<h3 className="mt-6 text-xs">Still have a question?</h3>
-			<p m-4 text-xs>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<p className="my-4 text-xs">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 			<Link className="border p-3 mt-3 text-xs" href="#">
           Contact us
         </Link>

@@ -1,4 +1,5 @@
 import Editor from "./components/Editor";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Questions from "./components/Questions";
 
@@ -8,6 +9,7 @@ export default function Home() {
     <Header />
     <Editor />
     <Questions />
+    <Footer />
    </div>
   )
 }
